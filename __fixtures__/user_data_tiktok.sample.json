@@ -1,0 +1,30 @@
+{
+	"Likes and Favorites":
+	{
+		"Favorite Collection":
+		{
+			"FavoriteCollectionList":
+			[
+				{ "Date": "2025-01-01 10:00:00", "FavoriteCollection": "Cooking" },
+				{ "Date": "2025-01-02 11:00:00", "FavoriteCollection": "Travel" },
+				{ "Date": "2025-01-03 12:00:00", "FavoriteCollection": "Music" },
+				{ "Date": "2025-01-04 13:00:00", "FavoriteCollection": "Workout" },
+				{ "Date": "2025-01-05 14:00:00", "FavoriteCollection": "Funny" },
+				{ "Date": "2025-01-06 15:00:00", "FavoriteCollection": "Coding" }
+			]
+		},
+		"Favorite Videos":
+		{
+			"FavoriteVideoList":
+			[
+				{ "Date": "2025-02-01 10:00:00", "Link": "https://www.tiktok.com/@user1/video/1111111111111111111" },
+				{ "Date": "2025-02-02 10:00:00", "Link": "https://www.tiktok.com/@user2/video/2222222222222222222" },
+				{ "Date": "2025-02-03 10:00:00", "Link": "https://www.tiktok.com/@user3/video/3333333333333333333" },
+				{ "Date": "2025-02-04 10:00:00", "Link": "https://www.tiktok.com/@user4/video/4444444444444444444" },
+				{ "Date": "2025-02-05 10:00:00", "Link": "https://www.tiktok.com/@user5/video/5555555555555555555" },
+				{ "Date": "2025-02-06 10:00:00", "Link": "https://www.tiktok.com/@user6/video/6666666666666666666" },
+				{ "Date": "2025-02-07 10:00:00", "Link": "https://www.tiktok.com/@user7/video/7777777777777777777" }
+			]
+		}
+	}
+}
